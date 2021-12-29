@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f926b6e-47c4-4103-aa2a-29268bf0c62d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repositories" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="20lEFxeAaCRVGoUCFcnNGBhBBFp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/workdata/历史代码/realtime-analysis-copy" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jxpl.data.modules.module" />
+      <recent name="com.jxpl.data.modules.bean" />
+      <recent name="com.jxpl.data" />
+      <recent name="com.jxpl.data.modules.new_module" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workdata\代码\Kafka2Phoenix\src\main\java\com\jxpl\data" />
+      <recent name="D:\workdata\代码\Kafka2Phoenix\src\main\resources" />
+      <recent name="D:\workdata\代码\Kafka2Phoenix\src\main\java\com\jxpl\data\enums" />
+      <recent name="D:\workdata\代码\Kafka2Phoenix\src\main\scala\com\jxpl\data\modules\utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.jxpl.data.Main" />
+      <module name="Kafka2Phoenix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jxpl.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoenixTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="PhoenixTest" />
+      <module name="Kafka2Phoenix" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Kafka2Phoenix" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.PhoenixTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f926b6e-47c4-4103-aa2a-29268bf0c62d" name="Default Changelist" comment="" />
+      <created>1636610674029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636610674029</updated>
+      <workItem from="1636610676663" duration="8042000" />
+      <workItem from="1636619219877" duration="4944000" />
+      <workItem from="1636679756403" duration="3479000" />
+      <workItem from="1636683405598" duration="7527000" />
+      <workItem from="1636706459318" duration="5721000" />
+      <workItem from="1636939232688" duration="7580000" />
+      <workItem from="1636962579911" duration="6795000" />
+      <workItem from="1637024771977" duration="192000" />
+      <workItem from="1637025621066" duration="16100000" />
+      <workItem from="1637111376483" duration="3369000" />
+      <workItem from="1637119522440" duration="2000" />
+      <workItem from="1637119538126" duration="279000" />
+      <workItem from="1637120352225" duration="598000" />
+      <workItem from="1637129869978" duration="4443000" />
+      <workItem from="1637138909032" duration="2844000" />
+      <workItem from="1637141759284" duration="858000" />
+      <workItem from="1637197543661" duration="5805000" />
+      <workItem from="1637283616455" duration="6541000" />
+      <workItem from="1637293396886" duration="117000" />
+      <workItem from="1637293518821" duration="2362000" />
+      <workItem from="1637302882153" duration="2784000" />
+      <workItem from="1637307888961" duration="8008000" />
+      <workItem from="1637544378370" duration="14396000" />
+      <workItem from="1637631371645" duration="6279000" />
+      <workItem from="1637637804560" duration="7711000" />
+      <workItem from="1637658473462" duration="2424000" />
+      <workItem from="1637660902413" duration="1021000" />
+      <workItem from="1637716525449" duration="8369000" />
+      <workItem from="1637736967852" duration="9338000" />
+      <workItem from="1637747695855" duration="1052000" />
+      <workItem from="1637803211831" duration="16581000" />
+      <workItem from="1637918158111" duration="279000" />
+      <workItem from="1638148859233" duration="4175000" />
+      <workItem from="1638171110043" duration="3978000" />
+      <workItem from="1638237180810" duration="7257000" />
+      <workItem from="1638322352793" duration="1285000" />
+      <workItem from="1638350282840" duration="1103000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1636610900581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1636610900581" />
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1637308440741">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1637308440741" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1636706163983">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1636706163983" />
+    <state x="513" y="327" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1637918219415">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="513" y="327" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1536.824@0.0.1536.824" timestamp="1637918219415" />
+    <state x="548" y="117" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1636705578044">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="117" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1636705578044" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1637306539766">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1637306539766" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1638322432492">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1638322432492" />
+    <state width="1493" height="77" key="GridCell.Tab.0.bottom" timestamp="1637833479104">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="77" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1637833479104" />
+    <state width="1493" height="77" key="GridCell.Tab.0.center" timestamp="1637833479104">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="77" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1637833479104" />
+    <state width="1493" height="77" key="GridCell.Tab.0.left" timestamp="1637833479104">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="77" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1637833479104" />
+    <state width="1493" height="77" key="GridCell.Tab.0.right" timestamp="1637833479104">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="77" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1637833479104" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1637918211819">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1637918211819" />
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1637659193101">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1536.824@0.0.1536.824" timestamp="1637659193101" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1637659204214">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1637659204214" />
+  </component>
+</project>

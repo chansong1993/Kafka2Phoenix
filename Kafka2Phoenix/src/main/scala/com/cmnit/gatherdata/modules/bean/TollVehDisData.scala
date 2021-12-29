@@ -1,0 +1,30 @@
+package com.cmnit.gatherdata.modules.bean
+
+case class TollVehDisData(
+                           auth: String,
+                           id: String,
+                           hourBatchNo: String,
+                           modifyFlag: String,
+                           entryType: String,
+                           TollStationId: String,
+                           laneNum: String,
+                           pointTime: String,
+                           identifyVlp: String,
+                           identifyVlpc: String,
+                           identifyType: String,
+                           identifyTailVlp: String,
+                           identifyTailVlpc: String,
+                           vehSpeed: String,
+                           vehFeatureCode: String,
+                           faceFeatureCode: String,
+                           opTime: String,
+                           direction: String,
+                           vehicleId: String,
+                           tailVehicleId: String,
+                           receivetime: String,
+                           branchAgency: String,
+                           var year: String,
+                           var month: String,
+                           var day: String,
+                           var hour: String
+                         ) {}
